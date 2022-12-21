@@ -1,2 +1,2 @@
-# UI-cheat-sheet
-UI UX designing cheat sheet 
+# Lets Study about UI UX designing
+- *notes coming soon .. !*
